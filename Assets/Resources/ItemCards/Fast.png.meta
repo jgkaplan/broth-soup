@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 22219a5b263c1484da0ac74357fd37ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8382619917105076964
+    second: __0003_FasterandFaster_0
+  - first:
+      213: -7729309808366982809
+    second: __0003_FasterandFaster_1
+  - first:
+      213: -425615826390429377
+    second: __0003_FasterandFaster_2
+  - first:
+      213: 7393447583994630385
+    second: __0003_FasterandFaster_3
+  - first:
+      213: 4257655354761410241
+    second: __0003_FasterandFaster_4
+  - first:
+      213: -1734454563919924384
+    second: __0003_FasterandFaster_5
+  - first:
+      213: -2998757181760202870
+    second: __0003_FasterandFaster_6
+  - first:
+      213: 1250108776096937444
+    second: __0003_FasterandFaster_7
+  - first:
+      213: -8978748328299848019
+    second: __0003_FasterandFaster_8
+  - first:
+      213: -2272981475472964008
+    second: __0003_FasterandFaster_9
+  - first:
+      213: -4436314219522445517
+    second: __0003_FasterandFaster_10
+  - first:
+      213: -176070374711749211
+    second: __0003_FasterandFaster_11
+  - first:
+      213: -7483671735876669280
+    second: __0003_FasterandFaster_12
+  - first:
+      213: 9176371840333150681
+    second: __0003_FasterandFaster_13
+  - first:
+      213: -2234532941940807614
+    second: __0003_FasterandFaster_14
+  - first:
+      213: -8998556558056028044
+    second: __0003_FasterandFaster_15
+  - first:
+      213: 7400188118557259047
+    second: __0003_FasterandFaster_16
+  - first:
+      213: -4168607269945027670
+    second: __0003_FasterandFaster_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 2031
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1566d13993faab80800000000000000
+      internalID: -8382619917105076964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1137
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e7515ea9fbb490800000000000000
+      internalID: -7729309808366982809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 848
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31d63139a8e71af0800000000000000
+      internalID: -425615826390429377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_3
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 665
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0587dc76dca9660800000000000000
+      internalID: 7393447583994630385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f794bcfa361b30800000000000000
+      internalID: 4257655354761410241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 413
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637f7e73cafde7e0800000000000000
+      internalID: -1734454563919924384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 408
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8718853b364266d0800000000000000
+      internalID: -2998757181760202870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 407
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53bd9fe47495110800000000000000
+      internalID: 1250108776096937444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 401
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae1e0487f3156380800000000000000
+      internalID: -8978748328299848019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 410
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856046d046fb470e0800000000000000
+      internalID: -2272981475472964008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 414
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fa951d8bb0f62c0800000000000000
+      internalID: -4436314219522445517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 530
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a516d35de87e8df0800000000000000
+      internalID: -176070374711749211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 398
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b077d438a42890800000000000000
+      internalID: -7483671735876669280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 398
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d974fdf195095f70800000000000000
+      internalID: 9176371840333150681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_14
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 372
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a5bcd0285df0e0800000000000000
+      internalID: -2234532941940807614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_15
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 10
+        width: 59
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4780fc1ac74be1380800000000000000
+      internalID: -8998556558056028044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 369
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725fbadc2efb2b660800000000000000
+      internalID: 7400188118557259047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __0003_FasterandFaster_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 372
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3d0d236c12626c0800000000000000
+      internalID: -4168607269945027670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      __0003_FasterandFaster_0: -8382619917105076964
+      __0003_FasterandFaster_1: -7729309808366982809
+      __0003_FasterandFaster_10: -4436314219522445517
+      __0003_FasterandFaster_11: -176070374711749211
+      __0003_FasterandFaster_12: -7483671735876669280
+      __0003_FasterandFaster_13: 9176371840333150681
+      __0003_FasterandFaster_14: -2234532941940807614
+      __0003_FasterandFaster_15: -8998556558056028044
+      __0003_FasterandFaster_16: 7400188118557259047
+      __0003_FasterandFaster_17: -4168607269945027670
+      __0003_FasterandFaster_2: -425615826390429377
+      __0003_FasterandFaster_3: 7393447583994630385
+      __0003_FasterandFaster_4: 4257655354761410241
+      __0003_FasterandFaster_5: -1734454563919924384
+      __0003_FasterandFaster_6: -2998757181760202870
+      __0003_FasterandFaster_7: 1250108776096937444
+      __0003_FasterandFaster_8: -8978748328299848019
+      __0003_FasterandFaster_9: -2272981475472964008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

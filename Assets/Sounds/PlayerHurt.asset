@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8409874646133024820
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack7_{-8409874646133024820}
+  m_AudioClip: {fileID: 8300000, guid: 4cdde2a380da946f08cd2e1f26da7511, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7345615534781865282
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack8_{-7345615534781865282}
+  m_AudioClip: {fileID: 8300000, guid: aebbee15895004d5f9baef207de7d260, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3507873462775805550
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack5_{-3507873462775805550}
+  m_AudioClip: {fileID: 8300000, guid: 6baf95e9eba8a4b2f938592bfab2ee65, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1558736420007910135
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack2_{-1558736420007910135}
+  m_AudioClip: {fileID: 8300000, guid: dc194a140bd0b4acf93293a4a60d45c7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-827947336752777026
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack3_{-827947336752777026}
+  m_AudioClip: {fileID: 8300000, guid: 8b9645527d0b54548b127df12c4fccd5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-120002031674143919
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack6_{-120002031674143919}
+  m_AudioClip: {fileID: 8300000, guid: a16f0155dd04a4fb3815511a2a8aa392, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &509670158370559875
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack1_{509670158370559875}
+  m_AudioClip: {fileID: 8300000, guid: 2b338bd38dd0f4e0f8df72da9ad1f6bb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3757524265528659668
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack4_{3757524265528659668}
+  m_AudioClip: {fileID: 8300000, guid: e356d4c8383544946a1a5fa06a1b94aa, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerHurt
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 509670158370559875}
+  - {fileID: -1558736420007910135}
+  - {fileID: -827947336752777026}
+  - {fileID: 3757524265528659668}
+  - {fileID: -3507873462775805550}
+  - {fileID: -120002031674143919}
+  - {fileID: -8409874646133024820}
+  - {fileID: -7345615534781865282}
+  - {fileID: 6536166996931399003}
+  m_AvoidRepeatingLast: 2
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6536166996931399003
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: crack9_{6536166996931399003}
+  m_AudioClip: {fileID: 8300000, guid: d2c5aa7ace9174a22856bc10b09d621e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
